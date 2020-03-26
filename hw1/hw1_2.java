@@ -7,5 +7,3 @@ public class hw1_2 {
         System.out.println(hour+" hours, "+min+" minutes, and "+sec+" seconds.");
     }
 }
-
-

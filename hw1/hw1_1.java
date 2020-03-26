@@ -7,11 +7,3 @@ public class hw1_1 {
         System.out.println(simple_int);
     }
 }
-
-
-
-
-
-
-
-
