@@ -24,7 +24,7 @@ class CastingTest2 {
         FireEngine fe = null;
         
         car.drive();
-        //fe = (FireEngine)car;
+        fe = (FireEngine)car;
         fe.drive();
         car2 = fe;
         car2.drive();
